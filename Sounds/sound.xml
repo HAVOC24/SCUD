@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+    <fx>
+        <burst>
+            <name>missile</name>
+            <path>Aircraft/ZSU-23/Sounds/shilka.wav</path>
+            <mode>once</mode>
+            <condition>
+                <property>sim/multiplay/generic/int[1]</property>
+            </condition>
+            <reference-dist>50</reference-dist>
+            <max-dist>10000</max-dist>
+            <position>
+                <x> 0.01 </x>
+                <y> 0.01 </y>
+                <z> 0.01 </z>
+            </position>
+            <volume>
+                <factor>0.5</factor>
+                <max>1</max>
+            </volume>
+        </burst>
+    </fx>
+</PropertyList>
