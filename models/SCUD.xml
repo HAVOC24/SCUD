@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<PropertyList>
+    <path>Aircraft/SCUD/SCUD.ac</path>
+
+    <sound>
+        <path>Aircraft/SCUD/Sounds/sound.xml</path>
+    </sound>
+    
+    <model>
+	<path>Aircraft/S-300/Models/smoke.xml</path>
+	<offsets>
+            <x-m> 3.26307</x-m>
+            <y-m>-0.84611</y-m>
+            <z-m> 2.85616</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/fire.xml</path>
+	<offsets>
+            <x-m> 3.26307</x-m>
+            <y-m>-0.84611</y-m>
+            <z-m> 2.85616</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/smoke.xml</path>
+	<offsets>
+            <x-m> 3.26307</x-m>
+            <y-m> 0.84611</y-m>
+            <z-m> 2.85616</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/fire.xml</path>
+	<offsets>
+            <x-m> 3.26307</x-m>
+            <y-m> 0.84611</y-m>
+            <z-m> 2.85616</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/smoke.xml</path>
+	<offsets>
+            <x-m> -0.80986</x-m>
+            <y-m> 0.00064</y-m>
+            <z-m> 3.24007</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/fire.xml</path>
+	<offsets>
+            <x-m> -0.80986</x-m>
+            <y-m> 0.00064</y-m>
+            <z-m> 3.24007</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/smoke.xml</path>
+	<offsets>
+            <x-m> -3.97300</x-m>
+            <y-m> 0.00023</y-m>
+            <z-m> 1.83017</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/fire.xml</path>
+	<offsets>
+            <x-m> -3.97300</x-m>
+            <y-m> 0.00023</y-m>
+            <z-m> 1.83017</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/smoke.xml</path>
+	<offsets>
+            <x-m> -4.26653</x-m>
+            <y-m> -1.82402</y-m>
+            <z-m> 1.44961</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/fire.xml</path>
+	<offsets>
+            <x-m> -4.26653</x-m>
+            <y-m> -1.82402</y-m>
+            <z-m> 1.44961</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/smoke.xml</path>
+	<offsets>
+            <x-m> -4.26653</x-m>
+            <y-m> 1.82402</y-m>
+            <z-m> 1.44961</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/fire.xml</path>
+	<offsets>
+            <x-m> -4.26653</x-m>
+            <y-m> 1.82402</y-m>
+            <z-m> 1.44961</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/smoke.xml</path>
+	<offsets>
+            <x-m> -0.63979</x-m>
+            <y-m> -2.14385</y-m>
+            <z-m> 0.05906</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/fire.xml</path>
+	<offsets>
+            <x-m> -0.63979</x-m>
+            <y-m> -2.14385</y-m>
+            <z-m> 0.05906</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/smoke.xml</path>
+	<offsets>
+            <x-m> -0.63979</x-m>
+            <y-m> 2.14385</y-m>
+            <z-m> 0.05906</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+    <model>
+	<path>Aircraft/S-300/Models/fire.xml</path>
+	<offsets>
+            <x-m> -0.63979</x-m>
+            <y-m> 2.14385</y-m>
+            <z-m> 0.05906</z-m>
+	    <pitch-deg>0</pitch-deg>
+	</offsets>
+    </model>
+
+	<particlesystem>
+		<name>trail</name>
+		<texture>Effects/smoke.png</texture>
+		<emissive>false</emissive>
+		<lighting>false</lighting>
+
+		<offsets>
+			<x-m>0</x-m>
+			<y-m>0</y-m>
+			<z-m>0</z-m>
+		</offsets>
+
+		<condition>
+			<greater-than>
+				<property>velocities/groundspeed-kt</property>
+				<value>10</value>
+			</greater-than>
+		</condition>
+
+		<attach>world</attach>
+
+		<placer>
+			<type>segments</type>
+			<vertex>
+				<x-m>0</x-m>
+				<y-m>0</y-m>
+				<z-m>0</z-m>
+			</vertex>
+			<vertex>
+				<x-m>1.5</x-m>
+				<y-m>0</y-m>
+				<z-m>0</z-m>
+			</vertex>
+				<vertex>
+				<x-m>3</x-m>
+				<y-m>0</y-m>
+				<z-m>0</z-m>
+			</vertex>
+		</placer>
+
+		<shooter>
+			<theta-min-deg>45</theta-min-deg>
+			<theta-max-deg>80</theta-max-deg>
+			<phi-min-deg>-5</phi-min-deg>
+			<phi-max-deg>5</phi-max-deg>
+			<speed-mps>
+				<property>velocities/groundspeed-kt</property>
+				<spread>100</spread>
+				<!--<factor>6</factor>-->
+			</speed-mps>
+			<rotation-speed>
+				<x-max-deg-sec>15</x-max-deg-sec>
+				<x-min-deg-sec>-15</x-min-deg-sec>
+				<y-max-deg-sec>15</y-max-deg-sec>
+				<y-min-deg-sec>-15</y-min-deg-sec>
+				<z-max-deg-sec>15</z-max-deg-sec>
+				<z-min-deg-sec>-15</z-min-deg-sec>
+			</rotation-speed>
+		</shooter>
+
+		<counter>
+			<particles-per-sec>
+				<property>velocities/groundspeed-kt</property>
+				<factor>2.5</factor>
+				<!--<value>250</value>-->
+				<spread>100</spread>
+			</particles-per-sec>		</counter>
+
+		<align>billboard</align>
+
+		<particle>
+			<start>
+				<color>
+					<red>
+						<value>0.95</value>
+					</red>
+					<green>
+						<value>0.85</value>
+					</green>
+					<blue>
+						<value>0.65</value>
+					</blue>
+					<alpha>
+						<value>0.05</value>
+					</alpha>
+				</color>
+				<size>
+					<value>0.5</value>
+				</size>
+			</start>
+			<end>
+				<color>
+					<red>
+						<value>1</value>
+					</red>
+					<green>
+						<value>0.8</value>
+					</green>
+					<blue>
+						<value>0.7</value>
+					</blue>
+					<alpha>
+						<value>0.020</value>
+					</alpha>
+				</color>
+				<size>
+					<value>10</value>
+				</size>
+			</end>
+			<life-sec>
+				<value>1.5</value>
+			</life-sec>
+			<mass-kg>0.025</mass-kg>
+			<radius-m>0.125</radius-m>
+		</particle>
+
+		<program>
+			<fluid>air</fluid>
+			<gravity>true</gravity>
+			<wind>true</wind>
+		</program>
+
+	</particlesystem>
+
+</PropertyList>
+
